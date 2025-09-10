@@ -1,4 +1,4 @@
-![AAYUSH](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=HI, I AM AAYUSH&fontSize=60&animation=twinkling)
+### Hi I am Aayush
 
 ---
 

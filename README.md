@@ -1,7 +1,4 @@
-<marquee behavior="alternate" direction="left" scrollamount="12">
-  <h1>HI I AM AAYUSH </h1>
-</marquee>
-
+![AAYUSH](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=HI, I AM AAYUSH&fontSize=60&animation=twinkling)
 
 ---
 

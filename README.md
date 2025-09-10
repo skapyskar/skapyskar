@@ -1,6 +1,7 @@
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  <h1>AAYUSH</h1>
+<marquee behavior="alternate" direction="left" scrollamount="12">
+  <h1>HI I AM AAYUSH </h1>
 </marquee>
+
 
 ---
 

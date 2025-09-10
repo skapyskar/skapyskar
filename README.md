@@ -1,4 +1,7 @@
-### Hi, I’m Aayush Dwivedi
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <h1>AAYUSH</h1>
+</marquee>
+
 ---
 
  - Student at VIT Vellore (B.Tech in IoT – School of Computer Engineering)

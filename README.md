@@ -1,4 +1,15 @@
-## Hi there 👋
+ Hi, I’m Aayush Dwivedi
+
+ Student @ VIT Vellore (B.Tech in IoT – School of Computer Engineering)
+ I like solving problems I face for myself — beyond just official projects.
+ Currently learning: C++ Templates, System Design & Open Source
+ Exploring: Hackathons, Puzzles & Embedded Tech Challenges
+ Fun fact: I love turning everyday problems into mini-projects.
+
+GitHub Stats
+
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapyskar&show_icons=true&theme=tokyonight)
+
 
 <!--
 **skapyskar/skapyskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

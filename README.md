@@ -1,11 +1,11 @@
 ### Hi, I’m Aayush Dwivedi
 ---
 
- -Student at VIT Vellore (B.Tech in IoT – School of Computer Engineering)
- -I like solving problems I face for myself — beyond just official projects.
- -Currently learning: C++ Templates, System Design & Open Source
- -Exploring: Hackathons, Puzzles & Embedded Tech Challenges
- -Fun fact: I love turning everyday problems into mini-projects.
+ - Student at VIT Vellore (B.Tech in IoT – School of Computer Engineering)
+ - I like solving problems I face for myself — beyond just official projects.
+ - Currently learning: C++ Templates, System Design & Open Source
+ - Exploring: Hackathons, Puzzles & Embedded Tech Challenges
+ - Fun fact: I love turning everyday problems into mini-projects.
 
 ---
 GitHub Stats
